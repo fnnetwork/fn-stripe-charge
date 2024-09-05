@@ -28,11 +28,10 @@ webbrowser.open('https://t.me/fn_network_back')
 print('\t\033[1;31m>>> Join Me Channel @fn_network_back ');
 print('\t\x1b[38;5;153m ElectraOp <--');
 o=("------------------------------------------------------------")
-print(B+o)
-combo=input(X+'COMBO NAME :'+X)
+combo= 'cc.txt'
 y=open(f'{combo}',"+r")
-token = input('TOKEN YOUR BOT : ')
-ID = input('ID : ')
+token = '7295999895:AAGo58OjcmoZhCoeQ74t17U4q5HxyTyN15E'
+ID = '6558098741'
 start_num = 0
 F = '\033[2;32m'
 Z= '\033[2;31m'
