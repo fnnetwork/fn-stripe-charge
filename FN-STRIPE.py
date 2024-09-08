@@ -28,7 +28,7 @@ webbrowser.open('https://t.me/fn_network_back')
 print('\t\033[1;31m>>> Join Me Channel @fn_network_back ');
 print('\t\x1b[38;5;153m ElectraOp <--');
 o=("------------------------------------------------------------")
-combo= 'cc.txt'
+combo= 'ccv.txt'
 y=open(f'{combo}',"+r")
 token = '7295999895:AAGo58OjcmoZhCoeQ74t17U4q5HxyTyN15E'
 ID = '6558098741'
